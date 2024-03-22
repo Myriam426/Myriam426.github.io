@@ -1,0 +1,21 @@
+body{
+    background: #ca4848;
+}
+
+i{
+    cursor: pointer;
+}
+
+.cards{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.fa-thumbs-up:hover{
+    color: #ca4848;
+}
+
+#contact{
+    height: 100vh;
+    background-color: antiquewhite;
+}
